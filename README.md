@@ -87,17 +87,17 @@ and, in relation to a partnership, means the right to a share of more than one-h
 
 # 3	COMMENCEMENT AND DURATION
 
-3.1	Commencement and Term
+## 3.1	Commencement and Term
 
 Subject to prior termination in accordance with clauses [4.1] or [4.2] below, this Agreement shall commence on [•                ] [the Commencement Date/the date of this Agreement] and shall continue until [•                ] OR [for a period of [•                ] Years] OR [for the Initial Term] [and thereafter unless and until terminated by either party giving to the other not less than [•                ] months' written notice, such notice to expire on or at any time after the expiry of [the Initial Term] [the first or any subsequent] [insert number] anniversary of the [the Commencement Date/the date of this Agreement]].
 
 # 4	TERMINATION
 
-4.1	Termination by notice
+## 4.1	Termination by notice
 
 [After the first Year of this Agreement,] either party shall have the right to terminate this Agreement, by giving not less than [three] months' written notice to the other during the Term [, such notice to expire [at the end of the notice period] [on or at any time after the expiry of [the Term]] [the first or any subsequent] [insert number] anniversary of the [the Commencement Date/the date of this Agreement]].
 
-4.2	Termination for breach, insolvency, etc.
+## 4.2	Termination for breach, insolvency, etc.
 
 [Either party] [X] [Y] (the "Complaining Party") may terminate this Agreement by giving written notice [to the other party] [to Y] [to X] (the "Defaulting Party") if any of the following events occurs:
 
@@ -107,11 +107,11 @@ Subject to prior termination in accordance with clauses [4.1] or [4.2] below, th
 	
 	(b)	the Defaulting Party becomes bankrupt or goes into liquidation (whether voluntary or compulsory), is dissolved, compounds with its creditors or has a receiver, administrative receiver or administrator appointed over the whole or any part of its assets or a petition is presented, or a meeting is convened for the purpose of considering a resolution, for the making of an administrative order, the winding-up, bankruptcy or dissolution of the Defaulting Party or the Defaulting Party suffers any similar process under the law of its domicile or place of its jurisdiction.
 
-4.3	Accrued Rights 
+## 4.3	Accrued Rights 
 
 The termination [or expiry] of this Agreement shall not affect any rights or obligations of either party which may have accrued prior to such termination [or expiry].
 
-4.4	Survival of Clauses
+## 4.4	Survival of Clauses
 
 The provisions of this Agreement which are expressly or impliedly intended to survive the termination or expiry of this Agreement shall survive such termination or expiry including, without limitation, clauses [•                ].
 

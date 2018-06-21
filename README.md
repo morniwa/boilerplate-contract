@@ -265,8 +265,8 @@ No person who is not a party to this Agreement shall have any right to enforce t
 
 15	LAW AND JURISDICTION
 
-15.1	This Agreement shall be governed by and construed in accordance with English law.
+15.1	This Agreement shall be governed by and construed in accordance with Irish law.
 
-15.2	Each party irrevocably agrees to submit to the [non-]exclusive jurisdiction of the courts of England in relation to any claim or matter arising under or in connection with this Agreement.
+15.2	Each party irrevocably agrees to submit to the [non-]exclusive jurisdiction of the courts of Ireland in relation to any claim or matter arising under or in connection with this Agreement.
 
 [Signature blocks]

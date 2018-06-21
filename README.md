@@ -87,7 +87,7 @@ and, in relation to a partnership, means the right to a share of more than one-h
 
 # 3	COMMENCEMENT AND DURATION
 
-## 3.1	Commencement and Term
+3.1	Commencement and Term
 
 Subject to prior termination in accordance with clauses [4.1] or [4.2] below, this Agreement shall commence on [•                ] [the Commencement Date/the date of this Agreement] and shall continue until [•                ] OR [for a period of [•                ] Years] OR [for the Initial Term] [and thereafter unless and until terminated by either party giving to the other not less than [•                ] months' written notice, such notice to expire on or at any time after the expiry of [the Initial Term] [the first or any subsequent] [insert number] anniversary of the [the Commencement Date/the date of this Agreement]].
 

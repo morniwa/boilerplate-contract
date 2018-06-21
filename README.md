@@ -16,84 +16,84 @@ In this agreement (“**Agreement**”) the following words have the meanings se
 
 "**Act**" means the Companies Act 1985 as amended.
 
-"Affiliate" means, in relation to a person, any Subsidiary or Holding Company of that person and any person directly or indirectly associated with that person or its Holding Company and a person shall be associated with another person or its Holding Company if the first person or its Holding Company owns, directly or indirectly, securities in issue of such person carrying more than [20]% of all voting rights (being the right to vote at general meetings).
+"**Affiliate**" means, in relation to a person, any Subsidiary or Holding Company of that person and any person directly or indirectly associated with that person or its Holding Company and a person shall be associated with another person or its Holding Company if the first person or its Holding Company owns, directly or indirectly, securities in issue of such person carrying more than [20]% of all voting rights (being the right to vote at general meetings).
 
-"Associated Company" has the meaning ascribed to it by section 416 of the Income and Corporation Taxes Act 1988.
+"**Associated Company**" has the meaning ascribed to it by section 416 of the Income and Corporation Taxes Act 1988.
 
-"Business Day" means any day (other than Saturday, a Sunday or a bank or public holiday) during which clearing banks are open for business in [the City of London]. 
+"**Business Day**" means any day (other than Saturday, a Sunday or a bank or public holiday) during which clearing banks are open for business in [the City of London]. 
  
-"Business Hours" means the hours from [9.00am] to [5.00pm] (inclusive) on a Business Day, English standard time.
+"**Business Hours**" means the hours from [9.00am] to [5.00pm] (inclusive) on a Business Day, English standard time.
 
-"Commencement Date" means [•                ] OR [the date of this agreement].
+"**Commencement Date**" means [•                ] OR [the date of this agreement].
 
-"Confidential Information" means all information relating to a party's business and products (including without limitation operations, plans, market opportunities, customers, know-how (including without limitation designs, processes of production and technology), trade secrets and software) disclosed to the other party (whether in writing, orally (provided that it is identified as confidential at the time of disclosure and confirmed as such by the disclosing party within 30 days of disclosure) or by any other medium. 
+"**Confidential Information**" means all information relating to a party's business and products (including without limitation operations, plans, market opportunities, customers, know-how (including without limitation designs, processes of production and technology), trade secrets and software) disclosed to the other party (whether in writing, orally (provided that it is identified as confidential at the time of disclosure and confirmed as such by the disclosing party within 30 days of disclosure) or by any other medium. 
 
-"Control" means in relation to a body corporate, the power of a person to secure that its affairs are conducted in accordance with the wishes of that person:
+"**Control**" means in relation to a body corporate, the power of a person to secure that its affairs are conducted in accordance with the wishes of that person:
 	(a) by means of the holding of shares or the possession of voting power in or in relation to that or any other body corporate; or
 	(b)	by virtue of any powers conferred by the articles of association or any other document regulating that or any other	body corporate
 	
 and, in relation to a partnership, means the right to a share of more than one-half the assets, or of more than one-half of the income, of the partnership, and a "Change of Control" shall occur if a person who controls any company or undertaking ceases to do so, or if another person acquires control of it;
 
-"Good Industry Practice" means the exercise of that degree of skill, diligence, prudence and foresight which would reasonably and ordinarily be expected from a skilled and experienced operator engaged in the same type of undertaking under the same or similar circumstances.
+"**Good Industry Practice**" means the exercise of that degree of skill, diligence, prudence and foresight which would reasonably and ordinarily be expected from a skilled and experienced operator engaged in the same type of undertaking under the same or similar circumstances.
 
-"Group" means, in respect of a party, the party, its Holding Company (if any), and all Subsidiary Companies of that party [and of that party's Holding Company] if any.
+"**Group**" means, in respect of a party, the party, its Holding Company (if any), and all Subsidiary Companies of that party [and of that party's Holding Company] if any.
 
-"Holding Company" has the meaning ascribed to it by section 736 of the Act.
+"**Holding Company**" has the meaning ascribed to it by section 736 of the Act.
 
-"Initial Term" means [•                ].
+"**Initial Term**" means [•                ].
 
-"Intellectual Property Rights" means patents, trade marks, service marks, trade names, registered and unregistered designs, trade or business names, copyright (including, but not limited to, rights in software), database rights, design rights, rights in confidential information and any other intellectual property rights whatsoever irrespective of whether such intellectual property rights have been registered or not which may subsist in any part of the world.
+"**Intellectual Property Rights**" means patents, trade marks, service marks, trade names, registered and unregistered designs, trade or business names, copyright (including, but not limited to, rights in software), database rights, design rights, rights in confidential information and any other intellectual property rights whatsoever irrespective of whether such intellectual property rights have been registered or not which may subsist in any part of the world.
 
-"Know-How" means the confidential knowledge, method, processes and applications of a party in respect of any materials, goods or services (which are not in the public domain) which were developed, created or devised by that party. 
+"**Know-How**" means the confidential knowledge, method, processes and applications of a party in respect of any materials, goods or services (which are not in the public domain) which were developed, created or devised by that party. 
 
-"Products" shall mean [•                ] [and any improvements, modifications and alterations].
+"**Products**" shall mean [•                ] [and any improvements, modifications and alterations].
 
-"Quarter" means the period of three months commencing on [•                ], each consecutive three month period thereafter and any shorter period commencing on a day following the end of a quarter and ending on the termination of this Agreement and "Quarterly" shall be construed accordingly.
+"**Quarter**" means the period of three months commencing on [•                ], each consecutive three month period thereafter and any shorter period commencing on a day following the end of a quarter and ending on the termination of this Agreement and "Quarterly" shall be construed accordingly.
 
-"RPI" means the arithmetical average of the monthly rates of the index called "General Index of Retail Prices – All items [(Excluding Mortgages)] " for each Year as published in the Office of National Statistics "Monthly Digest of Statistics" or any replacement index.
+"**RPI**" means the arithmetical average of the monthly rates of the index called "General Index of Retail Prices – All items [(Excluding Mortgages)] " for each Year as published in the Office of National Statistics "Monthly Digest of Statistics" or any replacement index.
 
-"Services" mean the services [set out in detail in Schedule [•                ]] as may be amended from time to time by agreement in writing between the parties.
+"**Services**" mean the services [set out in detail in Schedule [•                ]] as may be amended from time to time by agreement in writing between the parties.
 
-"Subsidiary Company" has the meaning ascribed to it by section 736 of the Act.
+"**Subsidiary Company**" has the meaning ascribed to it by section 736 of the Act.
 
-"Term" shall mean the period of this agreement referred to in clause 3.1.
+"**Term**" shall mean the period of this agreement referred to in clause 3.1.
 
-"Trade Marks" means all trade marks, trade names, insignia, logos and other identifying marks whether registered or not used on and in connection with the Products [including without limitation those set out in Schedule [•                ]].
+"**Trade Marks**" means all trade marks, trade names, insignia, logos and other identifying marks whether registered or not used on and in connection with the Products [including without limitation those set out in Schedule [•                ]].
 
-"VAT" means value added tax and/or any other equivalent sales or turnover tax at the prevailing rate from time to time.
+"**VAT**" means value added tax and/or any other equivalent sales or turnover tax at the prevailing rate from time to time.
 
-"Year" means each period beginning on the [Commencement Date] [date of this agreement] up to and including the day before the anniversary of that date during the Term and each subsequent period of 12 continuous Months during the Term.
+"**Year**" means each period beginning on the [Commencement Date] [date of this agreement] up to and including the day before the anniversary of that date during the Term and each subsequent period of 12 continuous Months during the Term.
 
 # 2	INTERPRETATION
 
-## 2.1	In this agreement (except where the context otherwise requires):
+2.1	In this agreement (except where the context otherwise requires):
 
 	(a)	words denoting the singular include the plural and vice versa;
 	(b)	words denoting any gender include all other genders;
 	(c)	any reference to "persons" includes individuals, bodies corporate, companies, partnerships, unincorporated associations, firms, trusts and all other legal [and commercial] entities;
 	(d)	any reference to a party is to a party to this agreement.
 
-## 2.2	Any reference to a statute, statutory provision or subordinate legislation shall be construed as referring to that statute, statutory provision or subordinate legislation as amended, modified, consolidated, re-enacted or replaced and in force from time to time, whether before or after the date of this agreement.
+2.2	Any reference to a statute, statutory provision or subordinate legislation shall be construed as referring to that statute, statutory provision or subordinate legislation as amended, modified, consolidated, re-enacted or replaced and in force from time to time, whether before or after the date of this agreement.
 
-## 2.3	Any reference to a statutory provision shall be construed as including references to all statutory instruments, orders, regulations or other subordinate legislation made pursuant to that statutory provision.
+2.3	Any reference to a statutory provision shall be construed as including references to all statutory instruments, orders, regulations or other subordinate legislation made pursuant to that statutory provision.
 
-## 2.4	The schedules to this agreement shall for all purposes form part of this agreement;
+2.4	The schedules to this agreement shall for all purposes form part of this agreement;
 
-## 2.5	Clause headings and the table of contents of this agreement are for convenience only and shall not affect the  interpretation of this agreement.
+2.5	Clause headings and the table of contents of this agreement are for convenience only and shall not affect the  interpretation of this agreement.
 
-## 2.6	Any reference to a clause, sub-clause, paragraph or schedule is to the relevant clause, sub-clause, paragraph or schedule of this agreement [unless stated otherwise];
+2.6	Any reference to a clause, sub-clause, paragraph or schedule is to the relevant clause, sub-clause, paragraph or schedule of this agreement [unless stated otherwise];
 
-## 2.7	Any reference to a document or agreement (including a reference to this Agreement and any part of it) is to the agreement or document as amended, varied, supplemented, novated or replaced [except to the extent prohibited by this Agreement or that other agreement or document].
+2.7	Any reference to a document or agreement (including a reference to this Agreement and any part of it) is to the agreement or document as amended, varied, supplemented, novated or replaced [except to the extent prohibited by this Agreement or that other agreement or document].
 
 # 3	COMMENCEMENT AND DURATION
 
-## 3.1	Commencement and Term
+3.1	Commencement and Term
 
 Subject to prior termination in accordance with clauses [4.1] or [4.2] below, this Agreement shall commence on [•                ] [the Commencement Date/the date of this Agreement] and shall continue until [•                ] OR [for a period of [•                ] Years] OR [for the Initial Term] [and thereafter unless and until terminated by either party giving to the other not less than [•                ] months' written notice, such notice to expire on or at any time after the expiry of [the Initial Term] [the first or any subsequent] [insert number] anniversary of the [the Commencement Date/the date of this Agreement]].
 
 # 4	TERMINATION
 
-## 4.1	Termination by notice
+4.1	Termination by notice
 
 [After the first Year of this Agreement,] either party shall have the right to terminate this Agreement, by giving not less than [three] months' written notice to the other during the Term [, such notice to expire [at the end of the notice period] [on or at any time after the expiry of [the Term]] [the first or any subsequent] [insert number] anniversary of the [the Commencement Date/the date of this Agreement]].
 
@@ -115,11 +115,11 @@ The termination [or expiry] of this Agreement shall not affect any rights or obl
 
 The provisions of this Agreement which are expressly or impliedly intended to survive the termination or expiry of this Agreement shall survive such termination or expiry including, without limitation, clauses [•                ].
 
-5	WARRANTIES
+# 5	WARRANTIES
 
 Except as expressly set out in this Agreement, all warranties, conditions and guarantees relating to [the Products and] this Agreement whether express or implied by statute, law, custom or otherwise are, to the fullest extent permitted by law, excluded from this Agreement except for the conditions implied by section 12 of the Sale of Goods Act 1979 or section 8 of the Supply of Goods (Implied Terms) Act 1973.
 
-6	PAYMENT/INTEREST/TAX
+# 6	PAYMENT/INTEREST/TAX
 
 6.1	Invoice payment
 
@@ -141,7 +141,7 @@ If either party is required by law to make any tax deduction or withholding in r
 
 All sums due under this Agreement shall be paid in full without any deduction or withholding other than as required by law and no party shall be entitled to assert any credit, set-off or counterclaim against the other party in order to justify withholding or deducting payment of any such amount in whole or in part.
 
-7	ACCOUNTING AND RECORDS
+# 7	ACCOUNTING AND RECORDS
 
 7.1	Each party shall:
 
@@ -149,7 +149,7 @@ All sums due under this Agreement shall be paid in full without any deduction or
 	(b)	at the reasonable request of the other party [on giving notice of the same] from time to time, allow the other party or its agent at the other party's expense to inspect those records and accounts [within [•                ] Business Days of receipt of such request] and, to the extent that they relate to the calculation of those sums, to take copies of them; and
 	(c)	within [30 (thirty)] days after the end of each Year, obtain at its own expense and supply to that other party an auditor's certificate as to the accuracy of the sums paid by that party pursuant to this Agreement during that Year.
 
-8	LIMITATIONS OF LIABILITY
+# 8	LIMITATIONS OF LIABILITY
 
 8.1	No party excludes or limits its liability under this Agreement for:
 
@@ -169,7 +169,7 @@ All sums due under this Agreement shall be paid in full without any deduction or
 
 8.3	The provisions of this clause shall survive the termination or expiry of this Agreement.
 
-9	INSURANCE
+# 9	INSURANCE
 
 9.1	[Y] shall take out and maintain [throughout the Term] full and effective insurance covering:
 
@@ -180,7 +180,7 @@ All sums due under this Agreement shall be paid in full without any deduction or
 
 9.2	Any insurance required to be effected under this Agreement shall be placed with an insurer of good repute [and [Y] shall either procure that the interest of [X] is noted on each such policy of insurance or ensure that the policy contains a clause providing for indemnity to principals]. [Y] shall provide [X] upon request with details of all relevant insurance policies/cover notes and with evidence reasonably satisfactory to [X] as to the terms of such insurance and that the premium has been paid.
 
-10	CONFIDENTIALITY
+# 10	CONFIDENTIALITY
 
 10.1	Each party undertakes to the other:
 
@@ -203,7 +203,7 @@ All sums due under this Agreement shall be paid in full without any deduction or
 
 10.6	The provisions of this clause [10] shall survive termination of this Agreement for any reason.
 
-11	INTELLECTUAL PROPERTY INDEMNITY
+# 11	INTELLECTUAL PROPERTY INDEMNITY
 
 11.1	[Y] shall [fully indemnify and keep fully indemnified [X] against any and all actions, costs, claims, demands, damages, expenses (including legal fees), liabilities, losses and proceedings] [keep [X] Fully Indemnified] in connection with any claim by a third party that the [normal] use [or possession of the Products] [[or] the use of the Services] infringes the [patent rights, [copyrights], [design rights] [or trade marks]] [Intellectual Property Rights] of that third party.
 
@@ -224,15 +224,15 @@ All sums due under this Agreement shall be paid in full without any deduction or
 	
 11.5	[This clause [11] states the entire liability of [Y] to [X] in respect of the infringement of a third party's [patent rights], [copyrights], [design rights] [or trade marks] [Intellectual Property Rights].]
 
-12	ASSIGNMENT
+# 12	ASSIGNMENT
 
 Save as specially and expressly provided in this Agreement neither party shall assign, sub-licence, sub-contract, delegate, share or part with any of its rights or obligations under this Agreement to any third party without the prior written consent of the other.
 
-13	FORCE MAJEURE
+# 13	FORCE MAJEURE
 
 [X] shall not be deemed to be in breach of this Agreement or liable for any delay or non-performance or for the consequences of any delay or non-performance which is due to any cause beyond its reasonable control of which it has notified [Y] relation to either party, any circumstance beyond the reasonable control of that party including without limitation any act of God, war, riot, explosion, abnormal weather conditions, loss of utilities, fire, flood, strike, lock out or industrial dispute and governmental or regulatory authority action.
 
-14	GENERAL
+# 14	GENERAL
 
 14.1	Notices
 
@@ -263,10 +263,10 @@ If any provision of this Agreement is or becomes illegal, invalid or unenforceab
 
 No person who is not a party to this Agreement shall have any right to enforce this Agreement pursuant to the Contracts (Rights of Third Parties) Act 1999.
 
-15	LAW AND JURISDICTION
+# 15	LAW AND JURISDICTION
 
 15.1	This Agreement shall be governed by and construed in accordance with Irish law.
 
 15.2	Each party irrevocably agrees to submit to the [non-]exclusive jurisdiction of the courts of Ireland in relation to any claim or matter arising under or in connection with this Agreement.
 
-[Signature blocks]
+# [Signature blocks]

@@ -10,11 +10,11 @@ PARTIES
 
 IT IS AGREED THAT:
 
-1	DEFINITIONS AND INTERPRETATION
+# 1	DEFINITIONS AND INTERPRETATION
 
-In this agreement (“Agreement”) the following words have the meanings set out below.
+In this agreement (“**Agreement**”) the following words have the meanings set out below.
 
-"Act" means the Companies Act 1985 as amended.
+"**Act**" means the Companies Act 1985 as amended.
 
 "Affiliate" means, in relation to a person, any Subsidiary or Holding Company of that person and any person directly or indirectly associated with that person or its Holding Company and a person shall be associated with another person or its Holding Company if the first person or its Holding Company owns, directly or indirectly, securities in issue of such person carrying more than [20]% of all voting rights (being the right to vote at general meetings).
 
@@ -64,36 +64,36 @@ and, in relation to a partnership, means the right to a share of more than one-h
 
 "Year" means each period beginning on the [Commencement Date] [date of this agreement] up to and including the day before the anniversary of that date during the Term and each subsequent period of 12 continuous Months during the Term.
 
-2	INTERPRETATION
+# 2	INTERPRETATION
 
-2.1	In this agreement (except where the context otherwise requires):
+## 2.1	In this agreement (except where the context otherwise requires):
 
 	(a)	words denoting the singular include the plural and vice versa;
 	(b)	words denoting any gender include all other genders;
 	(c)	any reference to "persons" includes individuals, bodies corporate, companies, partnerships, unincorporated associations, firms, trusts and all other legal [and commercial] entities;
 	(d)	any reference to a party is to a party to this agreement.
 
-2.2	Any reference to a statute, statutory provision or subordinate legislation shall be construed as referring to that statute, statutory provision or subordinate legislation as amended, modified, consolidated, re-enacted or replaced and in force from time to time, whether before or after the date of this agreement.
+## 2.2	Any reference to a statute, statutory provision or subordinate legislation shall be construed as referring to that statute, statutory provision or subordinate legislation as amended, modified, consolidated, re-enacted or replaced and in force from time to time, whether before or after the date of this agreement.
 
-2.3	Any reference to a statutory provision shall be construed as including references to all statutory instruments, orders, regulations or other subordinate legislation made pursuant to that statutory provision.
+## 2.3	Any reference to a statutory provision shall be construed as including references to all statutory instruments, orders, regulations or other subordinate legislation made pursuant to that statutory provision.
 
-2.4	The schedules to this agreement shall for all purposes form part of this agreement;
+## 2.4	The schedules to this agreement shall for all purposes form part of this agreement;
 
-2.5	Clause headings and the table of contents of this agreement are for convenience only and shall not affect the  interpretation of this agreement.
+## 2.5	Clause headings and the table of contents of this agreement are for convenience only and shall not affect the  interpretation of this agreement.
 
-2.6	Any reference to a clause, sub-clause, paragraph or schedule is to the relevant clause, sub-clause, paragraph or schedule of this agreement [unless stated otherwise];
+## 2.6	Any reference to a clause, sub-clause, paragraph or schedule is to the relevant clause, sub-clause, paragraph or schedule of this agreement [unless stated otherwise];
 
-2.7	Any reference to a document or agreement (including a reference to this Agreement and any part of it) is to the agreement or document as amended, varied, supplemented, novated or replaced [except to the extent prohibited by this Agreement or that other agreement or document].
+## 2.7	Any reference to a document or agreement (including a reference to this Agreement and any part of it) is to the agreement or document as amended, varied, supplemented, novated or replaced [except to the extent prohibited by this Agreement or that other agreement or document].
 
-3	COMMENCEMENT AND DURATION
+# 3	COMMENCEMENT AND DURATION
 
-3.1	Commencement and Term
+## 3.1	Commencement and Term
 
 Subject to prior termination in accordance with clauses [4.1] or [4.2] below, this Agreement shall commence on [•                ] [the Commencement Date/the date of this Agreement] and shall continue until [•                ] OR [for a period of [•                ] Years] OR [for the Initial Term] [and thereafter unless and until terminated by either party giving to the other not less than [•                ] months' written notice, such notice to expire on or at any time after the expiry of [the Initial Term] [the first or any subsequent] [insert number] anniversary of the [the Commencement Date/the date of this Agreement]].
 
-4	TERMINATION
+# 4	TERMINATION
 
-4.1	Termination by notice
+## 4.1	Termination by notice
 
 [After the first Year of this Agreement,] either party shall have the right to terminate this Agreement, by giving not less than [three] months' written notice to the other during the Term [, such notice to expire [at the end of the notice period] [on or at any time after the expiry of [the Term]] [the first or any subsequent] [insert number] anniversary of the [the Commencement Date/the date of this Agreement]].
 

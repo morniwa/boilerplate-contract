@@ -1,25 +1,42 @@
 # boilerplate-contract
 
-DATE OF 
-[YEAR]
+DATE OF [YEAR]
+
 PARTIES
+
 (1)	X [Limited/plc] (company number [•                ]hose registered office/principal place of business is at [•                ]
+
 (2)	Y [Limited/plc] (company number [•                ]), whose registered office/principal place of business is at [•                ]
+
 IT IS AGREED THAT:
-1	DEFINITIONS AND INTERPRETATION
+
+1.	DEFINITIONS AND INTERPRETATION
+
 In this agreement (“Agreement”) the following words have the meanings set out below.
+
 "Act" means the Companies Act 1985 as amended.
+
 "Affiliate" means, in relation to a person, any Subsidiary or Holding Company of that person and any person directly or indirectly associated with that person or its Holding Company and a person shall be associated with another person or its Holding Company if the first person or its Holding Company owns, directly or indirectly, securities in issue of such person carrying more than [20]% of all voting rights (being the right to vote at general meetings).
+
 "Associated Company" has the meaning ascribed to it by section 416 of the Income and Corporation Taxes Act 1988.
+
  "Business Day" means any day (other than Saturday, a Sunday or a bank or public holiday) during which clearing banks are open for business in the [City of London]. 
+ 
 "Business Hours" means the hours from [9.00am] to [5.00pm] (inclusive) on a Business Day, English standard time.
+
 "Commencement Date" means [•                ] OR [the date of this agreement].
+
 "Confidential Information" means all information relating to a party's business and products (including without limitation operations, plans, market opportunities, customers, know-how [(including without limitation designs, processes of production and technology), trade secrets and software)] disclosed to the other party (whether in writing, orally [(provided that it is identified as confidential at the time of disclosure and confirmed as such by the disclosing party within 30 days of disclosure)] or by any other medium. 
+
 ["Control" means in relation to a body corporate, the power of a person to secure that its affairs are conducted in accordance with the wishes of that person:
-(a)	by means of the holding of shares or the possession of voting power in or in relation to that or any other body corporate; or
+
+(a)	by means of the holding of shares or the possession of voting power in or in relation to that or any other body 	corporate; or
 (b)	by virtue of any powers conferred by the articles of association or any other document regulating that or any other body corporate
+
 [and, in relation to a partnership, means the right to a share of more than one-half the assets, or of more than one-half of the income, of the partnership],
+
 and a "Change of Control" shall occur if a person who controls any company or undertaking ceases to do so, or if another person acquires control of it;]
+
 "Good Industry Practice" means the exercise of that degree of skill, diligence, prudence and foresight which would reasonably and ordinarily be expected from a skilled and experienced operator engaged in the same type of undertaking under the same or similar circumstances.
 "Group" means, in respect of a party, the party, its Holding Company (if any), and all Subsidiary Companies of that party [and of that party's Holding Company] if any.
 "Holding Company" has the meaning ascribed to it by section 736 of the Act.
